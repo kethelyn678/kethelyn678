@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Kethelyn! 👩‍💻</h1>
+<h1 align="center">Kethelyn Evelyn Roberto</h1>
 
 <p align="center">
   <strong>Desenvolvedora Full Stack</strong><br>
@@ -13,13 +13,13 @@
 
 ---
 
-### 👩‍💻 Sobre mim
+### Sobre mim
 
 Sou desenvolvedora **Full Stack**, com atuação profissional como prestadora de serviços (PJ), desenvolvendo e evoluindo aplicações web e integrações entre sistemas. Tenho experiência prática com **fluxos de pagamento, emissão automatizada de notas fiscais, bancos de dados SQL, dashboards, automações de comunicação e integração de recursos de IA**.
 
 Gosto de transformar necessidades de negócio em funcionalidades úteis, conectando frontend, backend e serviços externos. Minha trajetória em tecnologia começou com um estágio de cinco meses em suporte técnico, atendendo usuários e solucionando problemas de sistemas remotamente.
 
-### 🛠️ Tecnologias e áreas de atuação
+### Tecnologias e áreas de atuação
 
 | Área | Tecnologias e atividades |
 | --- | --- |
@@ -30,7 +30,7 @@ Gosto de transformar necessidades de negócio em funcionalidades úteis, conecta
 | **Automações & IA** | Fluxos de atendimento, respostas assistidas por IA, follow-up, notificações e envio de e-mails |
 | **Ferramentas e práticas** | Git, GitHub, JSON, acesso remoto (AnyDesk e TeamViewer), atenção à segurança de dados |
 
-### 💼 Experiência e entregas
+### Experiência e entregas
 
 **Desenvolvimento Full Stack — atuação profissional PJ (atual)**
 
@@ -46,29 +46,29 @@ Gosto de transformar necessidades de negócio em funcionalidades úteis, conecta
 - Diagnóstico e resolução remota de falhas de operação e impressão.
 - Apoio a cadastros e uso do sistema via TeamViewer e AnyDesk.
 
-### 🚀 Projetos profissionais
+### Projetos profissionais
 
 > Os projetos abaixo foram desenvolvidos em contexto profissional. Por isso, apresento minhas contribuições sem publicar código, dados ou configurações internas de clientes e empresas.
 
 - **Grupo Sagon:** desenvolvimento de funcionalidades web, integração com **Mercado Pago**, emissão automática de notas fiscais e fluxos de cobrança/follow-up.
 - **Imigra Mais Brasil:** desenvolvimento e manutenção de funcionalidades do site, automações de atendimento com IA e integração com agenda.
-- **Storyal Central:** criação de páginas e planos, além de integrações ligadas a pagamentos e processos comerciais.
+- **Editorial Central:** criação de páginas e planos, além de integrações ligadas a pagamentos e processos comerciais.
 - **[Capítulo 11](https://capitulo11.com.br):** desenvolvimento Full Stack de uma plataforma de geração de livros com IA, incluindo interface, lógica backend, configuração de fluxos com JSON, integração de IA, pagamentos, faturamento e comunicação automatizada por e-mail.
 
-### 📂 Projetos disponíveis neste GitHub
+### Projetos disponíveis neste GitHub
 
 - **[Atlas Explore](https://github.com/kethelyn678/Atlas-Explore):** projeto web com páginas HTML e estilos CSS.
 - **[Newsletter — Tema Dark](https://github.com/kethelyn678/newsletter-tema-dark):** interface web com HTML, CSS e JavaScript.
 
-### 🎓 Formação
+### Formação
 
 **Análise e Desenvolvimento de Sistemas — UniCesumar**
 
-### 🤝 Vamos nos conectar?
+### Contato profissional
 
 Tenho interesse em oportunidades e conexões profissionais nas áreas de **desenvolvimento Full Stack, backend e integração de sistemas**.
 
-📌 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/kethelyn-evelyn-roberto-78719b300/)
+[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/kethelyn-evelyn-roberto-78719b300/)
 
 ---
 
