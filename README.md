@@ -50,9 +50,9 @@ Gosto de transformar necessidades de negócio em funcionalidades úteis, conecta
 
 > Os projetos abaixo foram desenvolvidos em contexto profissional. Por isso, apresento minhas contribuições sem publicar código, dados ou configurações internas de clientes e empresas.
 
-- **Grupo Sagon:** desenvolvimento de funcionalidades web, integração com **Mercado Pago**, emissão automática de notas fiscais e fluxos de cobrança/follow-up.
-- **Imigra Mais Brasil:** desenvolvimento e manutenção de funcionalidades do site, automações de atendimento com IA e integração com agenda.
-- **Editorial Central:** criação de páginas e planos, além de integrações ligadas a pagamentos e processos comerciais.
+- **[Grupo Sagon](https://gruposagon.com.br/):** desenvolvimento de funcionalidades web, integração com **Mercado Pago**, emissão automática de notas fiscais e fluxos de cobrança/follow-up.
+- **[Imigra Mais Brasil](https://www.imigramaisbrasil.com.br/):** desenvolvimento e manutenção de funcionalidades do site, automações de atendimento com IA e integração com agenda.
+- **[Editorial Central](https://www.editorialcentral.com.br/):** criação de páginas e planos, além de integrações ligadas a pagamentos e processos comerciais.
 - **[Capítulo 11](https://capitulo11.com.br):** desenvolvimento Full Stack de uma plataforma de geração de livros com IA, incluindo interface, lógica backend, configuração de fluxos com JSON, integração de IA, pagamentos, faturamento e comunicação automatizada por e-mail.
 
 ### Projetos disponíveis neste GitHub
